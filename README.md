@@ -2,7 +2,7 @@
 A ASP Net Core 2.1 Web API which serves as the backend service for the WhatToWatch Android Application.
 
 ### Motivation
-WhatToWatch is a mobile app which is designed to reduce the streamers difficulty of searching the right movie to watch. Many researches have found that the people 20% time searching rather than enjoying the content.
+WhatToWatch is a mobile app that is designed to reduce the streamer's difficulty in searching the right movie to watch. Many kinds of research have found that people 20% time searching rather than enjoying the content.
 
 ### Tech/framework used
 * ASP Net Core 2.1

@@ -1,0 +1,17 @@
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\bin\Debug\netcoreapp2.1\web.config
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\bin\Debug\netcoreapp2.1\aws-lambda-tools-defaults.json
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\bin\Debug\netcoreapp2.1\WhatToWatch.API.deps.json
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\bin\Debug\netcoreapp2.1\WhatToWatch.API.runtimeconfig.json
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\bin\Debug\netcoreapp2.1\WhatToWatch.API.runtimeconfig.dev.json
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\bin\Debug\netcoreapp2.1\WhatToWatch.API.dll
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\bin\Debug\netcoreapp2.1\WhatToWatch.API.pdb
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\obj\Debug\netcoreapp2.1\WhatToWatch.API.RazorAssemblyInfo.cache
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\obj\Debug\netcoreapp2.1\WhatToWatch.API.RazorAssemblyInfo.cs
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\obj\Debug\netcoreapp2.1\WhatToWatch.API.AssemblyInfoInputs.cache
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\obj\Debug\netcoreapp2.1\WhatToWatch.API.AssemblyInfo.cs
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\obj\Debug\netcoreapp2.1\WhatToWatch.API.RazorTargetAssemblyInfo.cache
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\obj\Debug\netcoreapp2.1\WhatToWatch.API.dll
+C:\Users\sudha\source\repos\WhatToWatch.API\WhatToWatch.API\obj\Debug\netcoreapp2.1\WhatToWatch.API.pdb

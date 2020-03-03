@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -13,5 +13,6 @@ namespace WhatToWatch.API.Models
         public string sources { get; set; }
         public string year_start { get; set; }
         public string year_end { get; set; }
+        public string genre_name { get; set; }
     }
 }

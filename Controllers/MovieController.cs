@@ -122,4 +122,4 @@ namespace WhatToWatch.API.Controllers
         }
     }
 }
-How to use ZIP Extractor
+
